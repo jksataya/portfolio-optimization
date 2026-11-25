@@ -1,4 +1,3 @@
-# portfolio-optimization
 # Portfolio Optimization Using Python
 
 ## Project Overview
